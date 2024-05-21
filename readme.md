@@ -1,4 +1,4 @@
-![logo do projeto] ![Screenshot_1](https://github.com/httpleo/Cardapio/assets/151533709/90465665-0196-45f3-bf0d-498405e742dc)
+PROJETO ![Screenshot_1](https://github.com/httpleo/Cardapio/assets/151533709/90465665-0196-45f3-bf0d-498405e742dc)
 
 
 # Dev Burguer
